@@ -11,7 +11,8 @@ O sistema permitirá que os responsáveis pelas melhorias tenham conhecimento co
 Descrição:
 O sistema “Fala aí , Recife” ,  é uma aplicação  web que permitirá à população do recife, fazer a solicitação de serviços à prefeitura, fazendo uma descrição e indicando em um mapa o local do problema encontrado, além de poder acompanhar o andamento do processo de solicitação. 
 
-Equipe:Giovanni Correa (gecj)
-       Thales Monteiro (trm3)
-       jhonata Lima (jls3)
-       Jefferson Alves (jwsa)
+Equipe:
+- Giovanni Correa (gecj)
+- Thales Monteiro (trm3)
+- Jhonata Lima (jls3)
+- Jefferson Alves (jwsa)
