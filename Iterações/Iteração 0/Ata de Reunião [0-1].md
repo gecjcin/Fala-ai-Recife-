@@ -14,6 +14,7 @@
 - Definir escopo do projeto
 - Definir atribuições para equipe
 - Brainstorm sobre APIs úteis para o escopo definido
+- Avaliar Público-alvo 
 
 ## A fazer
 
