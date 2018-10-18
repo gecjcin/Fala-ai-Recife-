@@ -10,7 +10,8 @@
 
 ## Objetivos
   - Definir ferramentas para desenvolvimento e comunicação do projeto;
-  - Definir ideias para criação dos Lo-Fi mockups
+  - Definir ideias para criação dos Lo-Fi mockups;
+  - Coletar ideias do brainstorming para Histórias dos Usuarios.
 
 
 ## A fazer
