@@ -1,7 +1,4 @@
-##HISTÓRIAS DO USUÁRIO 
-
-  Cliente Primário  --> População
-  Agente de atendimento  --> Órgãos Públicos
+ *HISTÓRIAS DO USUÁRIO 
 
 - COMO cliente primário, QUERO anexar fotos a solicitação PARA ser mais preciso na descrição da denúncia.
 
