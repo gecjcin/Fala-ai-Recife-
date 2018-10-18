@@ -19,7 +19,7 @@ Tarefas | Desenvolvedor
 --------|-------------
 Aprender Ruby | Equipe
 Aprender GIT | Equipe
-AProcurar APIs úteis para o projeto | Equipe
+Procurar APIs úteis para o projeto | Equipe
 
 
 
