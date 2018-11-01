@@ -10,7 +10,7 @@ development:
   <<: *default
   database: falaairecife_dev
 
-test:
+test: &test
   <<: *default
   database: falaairecife_test
 
@@ -19,3 +19,6 @@ production:
   database: falaairecife_prod
 
 
+
+cucumber:
+  <<: *test
