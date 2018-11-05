@@ -15,6 +15,5 @@ O sistema “Fala aí , Recife” ,  é uma aplicação  web que permitirá à p
 
 ## Equipe:
 - Giovanni Correa (gecj)
-- Thales Monteiro (trm3)
 - Jhonata Lima (jls3)
 - Jefferson Alves (jwsa)
