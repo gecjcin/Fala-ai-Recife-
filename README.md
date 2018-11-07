@@ -1,24 +1,19 @@
-# README
+# Fala-ai-Recife-
+Projeto de ES
+Projeto da disciplina de Engenharia de Software (IF977), ofertada no curso de Sistemas de Informação do Centro de Informática, UFPE.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Justificativa:
 
-* Ruby version
+A falta de transparência sobre o andamento de processos dos órgãos urbanos incomoda possivelmente a maioria dos recifenses, dessa forma o sistema “Fala aí, Recife!” visa gerenciar a comunicação entre os setores responsáveis pela manutenção da cidade e a população.
+O sistema permitirá que os responsáveis pelas melhorias tenham conhecimento com maior rapidez sobre os problemas mais específicos da cidade, e de certa forma, possibilitando se organizarem melhor para o atendimento de acordo com a urgência.Para os usuários, facilitará a solicitação de serviços em seu bairro, podendo também acompanhar o “status” da sua denúncia, datas de atuação e conclusão de obras.
 
-* System dependencies
 
-* Configuration
+## Descrição:
 
-* Database creation
+O sistema “Fala aí , Recife” ,  é uma aplicação  web que permitirá à população do recife, fazer a solicitação de serviços à prefeitura, fazendo uma descrição e indicando em um mapa o local do problema encontrado, além de poder acompanhar o andamento do processo de solicitação. 
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Equipe:
+- Giovanni Correa (gecj)
+- Jhonata Lima (jls3)
+- Jefferson Alves (jwsa)
